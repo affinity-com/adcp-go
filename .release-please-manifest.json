@@ -6,6 +6,6 @@
   "tmproto": "0.3.2",
   "tmpclient": "0.2.0",
   "targeting": "0.5.1",
-  "uid2client": "0.2.0",
+  "uid2client": "0.3.0",
   "adcp/v3": "3.3.0-beta.0"
 }
